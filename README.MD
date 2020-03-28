@@ -1,0 +1,1 @@
+-- Projeto de Estudo sobre JWT utilizando .Net Core 3
