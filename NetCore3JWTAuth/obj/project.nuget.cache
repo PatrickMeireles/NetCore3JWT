@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DAMKmY07ZoTRbRIPuA3NcOGlEB6n/L+MGB79UujJlyexYOc/US2RVS5zBHnD2YN05Cy6EDxfKQ2uSdAA12NuOg==",
+  "dgSpecHash": "oO/XDrn2E1YQpqxI6ReaCgEwr1aGLCScu1IQbvVscOv5S4goGk3inNoGWZilea5MrOFkTFIsxhsM8g65b17ZUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Patrick\\source\\repos\\NetCore3JWTAuth\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj",
+  "projectFilePath": "C:\\Git\\GitHub\\NetCore3JWT\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Patrick\\source\\repos\\NetCore3JWTAuth\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj": {}
+    "C:\\Git\\GitHub\\NetCore3JWT\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Patrick\\source\\repos\\NetCore3JWTAuth\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj": {
+    "C:\\Git\\GitHub\\NetCore3JWT\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Patrick\\source\\repos\\NetCore3JWTAuth\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj",
+        "projectUniqueName": "C:\\Git\\GitHub\\NetCore3JWT\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj",
         "projectName": "NetCore3JWTAuth",
-        "projectPath": "C:\\Users\\Patrick\\source\\repos\\NetCore3JWTAuth\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj",
+        "projectPath": "C:\\Git\\GitHub\\NetCore3JWT\\NetCore3JWTAuth\\NetCore3JWTAuth.csproj",
         "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Patrick\\source\\repos\\NetCore3JWTAuth\\NetCore3JWTAuth\\obj\\",
+        "outputPath": "C:\\Git\\GitHub\\NetCore3JWT\\NetCore3JWTAuth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
